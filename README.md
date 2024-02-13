@@ -25,6 +25,8 @@ steps:
    13  history
 
 
+jenkins installing link - https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
+
 
 
 
